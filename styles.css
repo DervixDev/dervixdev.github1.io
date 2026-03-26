@@ -1,0 +1,85 @@
+.card {
+        background-color:grey;
+        text-align: center;
+        font-size: 25px;
+        
+}
+body {
+    background:powderblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-justify:distribute;
+    color:aliceblue;
+    border-top: 2px solid whitesmoke;
+    border-radius: 50px;
+    border-bottom: 1px solid whitesmoke;
+    border-bottom-right-radius: 51px;
+    border-width: 5px;
+    padding: 35px;
+    height: 1000px;
+    text-align: center;
+    box-sizing: border-box;
+
+
+
+}
+h1 {
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: grey;
+    border-bottom: 2px solid azure;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+h2 {
+    font-size: 18.5px;
+    text-align: center;
+    padding-top: 5px;
+    color: antiquewhite;
+}
+.box {
+     height: 100px;
+}
+h3 {
+    text-align: center;
+    color:aquamarine;
+    box-sizing: border-box;                               
+}
+.box1 {
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: solid;
+    color: azure;
+}
+.enlace {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 20px;
+    font-size: 22px;
+    font-weight: bold;
+    font-style:normal;
+    text-decoration: solid;
+    width: auto;
+    height: auto;
+    color:blanchedalmond;
+    font-style: italic;
+}
+.box2 {
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:grey;
+}
+p {
+    text-shadow: 100px;
+    font-family: cursive;
+    font-style: 900;
+}
+.image {
+    width: 40px;
+    height: 40px;
+}
